@@ -17,3 +17,12 @@ Configurable Custom Help Command
   - Executed with the /LNHelp command in-game
   - Returns configured help messages to the user (In config.yml)
   - Multi line support
+
+Installation
+  - Download latest LNPlugin.jar release
+  - Copy into servers plugins folder
+  - Start server (This will generate the default config.yml)
+  - Stop server
+  - Navigate to plugins/LNPlugin/config.yml
+  - Configure and enable the messages / commands (Information regarding each configurable option are self contained in default config.yml)
+  - Restart server
