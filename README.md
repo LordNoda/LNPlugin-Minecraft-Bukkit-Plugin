@@ -17,6 +17,9 @@ Configurable Custom Help Command
   - Executed with the /LNHelp command in-game
   - Returns configured help messages to the user (In config.yml)
   - Multi line support
+  
+Easy MP Sleep
+  - Only one person is required to sleep to turn night to day
 
 Installation
   - Download latest LNPlugin.jar release
