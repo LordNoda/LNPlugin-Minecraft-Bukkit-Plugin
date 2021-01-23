@@ -1,5 +1,6 @@
 # LNPlugin-Minecraft-Bukkit-Plugin
-A minecraft plugin for bukkit (1.16.5)
+
+Built on v1.16.5
 
 This is a simple plugin for Bukkit based servers. (Spigot / Paper MC)
 
