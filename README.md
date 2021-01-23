@@ -21,6 +21,9 @@ Configurable Custom Help Command
   
 Easy MP Sleep
   - Only one person is required to sleep to turn night to day
+  
+Permissions
+  - No permissions
 
 Installation
   - Download latest LNPlugin.jar release
