@@ -1,7 +1,7 @@
 # LNPlugin-Minecraft-Bukkit-Plugin
 A minecraft plugin for bukkit (1.16.5)
 
-This is a simple plugin for Bukkit based servers.
+This is a simple plugin for Bukkit based servers. (Spigot / Paper MC)
 
 Configurable Join Messages
   - Displays when the user joins the server
