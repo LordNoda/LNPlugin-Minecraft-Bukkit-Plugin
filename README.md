@@ -21,6 +21,7 @@ Configurable Custom Help Command
   
 Easy MP Sleep
   - Only one person is required to sleep to turn night to day
+  - Insomnia is reset for all players
   
 Permissions
   - No permissions
