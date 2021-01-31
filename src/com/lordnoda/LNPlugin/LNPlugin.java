@@ -27,7 +27,7 @@ public class LNPlugin extends JavaPlugin{
     	getServer().getPluginManager().registerEvents(new SleepListener(config), this);
     	
     	//Register commands
-    	this.getCommand("LNHelp").setExecutor(new LNHelp(config));
+    	this.getCommand("LNHelp").setExecutor(new LNHelp(config));    
     	
     }
     
